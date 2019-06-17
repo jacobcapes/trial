@@ -1,0 +1,10 @@
+H:\Coding\trial\trial\bin\Debug\trial.exe.config
+H:\Coding\trial\trial\bin\Debug\trial.exe
+H:\Coding\trial\trial\bin\Debug\trial.pdb
+H:\Coding\trial\trial\obj\Debug\trial.csprojAssemblyReference.cache
+H:\Coding\trial\trial\obj\Debug\trial.Form1.resources
+H:\Coding\trial\trial\obj\Debug\trial.Properties.Resources.resources
+H:\Coding\trial\trial\obj\Debug\trial.csproj.GenerateResource.cache
+H:\Coding\trial\trial\obj\Debug\trial.csproj.CoreCompileInputs.cache
+H:\Coding\trial\trial\obj\Debug\trial.exe
+H:\Coding\trial\trial\obj\Debug\trial.pdb
